@@ -11,7 +11,9 @@ class Third{
         else{
             System.out.println("Eligible for voting");
         }
+        
     }
+    
     
     }
     
